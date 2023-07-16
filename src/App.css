@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+.header{
+  color: cadetblue;
+  font-size: larger;
+  font-weight:bolder;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
